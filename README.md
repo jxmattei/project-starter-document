@@ -76,9 +76,7 @@ launching → main → detail
 > The part you don't know how to build yet.
 > Prototype this FIRST in a Playground or test target,
 > before building the app shell around it.
-
-> If there's no scary thing, the project is too small to learn from.
--->
+> **If there's no scary thing, the project is too small to learn from.**
 
 
 
