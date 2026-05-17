@@ -6,10 +6,10 @@
 
 ## 1. What is this, in one sentence
 
-<!--
-One sentence. If you can't write it, the idea isn't ready.
-Example: "A solo roguelike where you play a courier delivering packages in a hostile forest."
--->
+
+>>> One sentence. If you can't write it, the idea isn't ready.
+>>> Example: "A solo roguelike where you play a courier delivering packages in a hostile forest."
+
 
 
 
